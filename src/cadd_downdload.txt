@@ -1,0 +1,1 @@
+wget -c http://krishna.gs.washington.edu/download/CADD/v1.3/1000G_phase3_inclAnno.tsv.gz
